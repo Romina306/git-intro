@@ -1,2 +1,1 @@
-Mensaje desde la rama main
-Conflict attempt
+Conflict attempt from feature
